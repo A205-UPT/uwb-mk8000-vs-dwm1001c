@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "UWB indoor positioning: MK8000 vs DWM1001C - data and code"
+type: software
+version: 1.0.0
+date-released: 2026-10-07
+license: MIT
+authors:
+  - family-names: "Ciorchină"
+    given-names: "Ana-Maria Andrada"
+    affiliation: "Politehnica University Timișoara"
+  - family-names: "Petrița"
+    given-names: "Teodor"
+    affiliation: "Politehnica University Timișoara"
+  - family-names: "Stoichițoiu"
+    given-names: "Teodor-Gabriel"
+    affiliation: "Politehnica University Timișoara"
+keywords: [ultra-wideband, indoor positioning, two-way ranging, trilateration, RANSAC, DWM1001C, MK8000]
+preferred-citation:
+  type: unpublished
+  title: "A comparison between two indoor positioning UWB systems"
+  authors:
+    - family-names: "Ciorchină"
+      given-names: "Ana-Maria Andrada"
+    - family-names: "Petrița"
+      given-names: "Teodor"
+    - family-names: "Stoichițoiu"
+      given-names: "Teodor-Gabriel"
+  year: 2026
+  notes: "Update with venue and DOI once published."

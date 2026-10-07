@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+matplotlib
+# only to open / re-run worked_example.ipynb
+jupyter
